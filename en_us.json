@@ -1,94 +1,48 @@
 {
-    "attribute": {
-        "name": {
-            "generic": {
-                "attackDamage": "Physic Damage",
-                "armor": "Physic Resistance"
-            },
-            "edencraft": {
-                "pierceDamage": "Pierce Damage",
-                "poisonDamage": "Poison Damage",
-                "fireDamage": "Fire Damage",
-                "coldDamage": "Cold Damage",
-                "magicDamage": "Magic Damage",
-                "poisonResistance": "Poison Resistance",
-                "fireResistance": "Fire Resistance",
-                "coldResistance": "Cold Resistance",
-                "magicResistance": "Magic Resistance"
-            }
-        },
-        "modifier": {
-            "plus": {
-                "0": "+%s %s",
-                "1": "+%s%% %s",
-                "2": "+%s%% %s"
-            },
-            "take": {
-                "0": "-%s %s",
-                "1": "-%s%% %s",
-                "2": "-%s%% %s"
-            },
-            "equals": {
-                "0": "%2$s: %1$s",
-                "1": "%2$s: %1$s%%",
-                "2": "%2$s: %1$s%%"
-            }
-        }
-    },
-    "item": {
-        "modifiers": "Effects",
-        "edencraft": {
-            "custom_armor_chestplate": "Armatura di test"
-        }
-    },
-    "armorset": {
-        "equippedpieces": "[%s] equipped pieces",
-        "modifiers": {
-            "plus": "+%s %s",
-            "take": "-%s %s"
-        }
-    },
-    "effect": {
-        "self": "Apply %s to self",
-        "amplified": {
-            "self": "Apply %s of level %s to self",
-            "target": "Apply %s of level %s for %s seconds to target",
-            "attacker": "Apply %s of level %s for %s seconds to attacker"
-        },
-        "target": "Apply %s for %s seconds to target",
-        "attacker": "Apply %s for %s seconds to attacker",
-        "damagetype": " on damage of type: "
-    },
-    "edencraft": {
-        "damagetype": {
-            "physic": "Physic",
-            "pierce": "Pierce",
-            "poison": "Poison",
-            "fire": "Fire",
-            "cold": "Cold",
-            "magic": "Magic"
-        },
-        "race": {
-            "title": "Select your race",
-            "eloriam": {
-                "description": "+10% Primary\\n\n+5% Secondary"
-            },
-            "magaar": {
-                "description": "+10% Primary\\n\n+5% Secondary"
-            },
-            "petra": {
-                "description": "+10% Primary\\n\n+5% Secondary"
-            },
-            "shael": {
-                "description": "+10% Primary\\n\n+5% Secondary"
-            },
-            "tamalath": {
-                "description": "+10% Primary\\n\n+5% Secondary"
-            },
-            "zahalari": {
-                "description": "+10% Primary\\n\n+5% Secondary"
-            },
-            "select": "Join the adventure!"
-        }
-    }
+    "attribute.name.generic.attackDamage": "Physic Damage",
+    "attribute.name.generic.armor": "Physic Resistance",
+    "attribute.name.edencraft.pierceDamage": "Pierce Damage",
+    "attribute.name.edencraft.poisonDamage": "Poison Damage",
+    "attribute.name.edencraft.fireDamage": "Fire Damage",
+    "attribute.name.edencraft.coldDamage": "Cold Damage",
+    "attribute.name.edencraft.magicDamage": "Magic Damage",
+    "attribute.name.edencraft.poisonResistance": "Poison Resistance",
+    "attribute.name.edencraft.fireResistance": "Fire Resistance",
+    "attribute.name.edencraft.coldResistance": "Cold Resistance",
+    "attribute.name.edencraft.magicResistance": "Magic Resistance",
+    "attribute.modifier.plus.0": "+%s %s",
+    "attribute.modifier.plus.1": "+%s%% %s",
+    "attribute.modifier.plus.2": "+%s%% %s",
+    "attribute.modifier.take.0": "-%s %s",
+    "attribute.modifier.take.1": "-%s%% %s",
+    "attribute.modifier.take.2": "-%s%% %s",
+    "attribute.modifier.equals.0": "%2$s: %1$s",
+    "attribute.modifier.equals.1": "%2$s: %1$s%%",
+    "attribute.modifier.equals.2": "%2$s: %1$s%%",
+    "item.modifiers": "Effects",
+    "item.edencraft.custom_armor_chestplate": "Test Armor",
+    "armorset.equippedpieces": "[%s] equipped pieces",
+    "armorset.modifiers.plus": "+%s %s",
+    "armorset.modifiers.take": "-%s %s",
+    "effect.self": "Apply %s to self",
+    "effect.amplified.self": "Apply %s of level %s to self",
+    "effect.amplified.target": "Apply %s of level %s for %s seconds to target",
+    "effect.amplified.attacker": "Apply %s of level %s for %s seconds to attacker",
+    "effect.target": "Apply %s for %s seconds to target",
+    "effect.attacker": "Apply %s for %s seconds to attacker",
+    "effect.damagetype": " on damage of type: ",
+    "edencraft.damagetype.physic": "Physic",
+    "edencraft.damagetype.pierce": "Pierce",
+    "edencraft.damagetype.poison": "Poison",
+    "edencraft.damagetype.fire": "Fire",
+    "edencraft.damagetype.cold": "Cold",
+    "edencraft.damagetype.magic": "Magic",
+    "edencraft.race.title": "Select your race",
+    "edencraft.race.eloriam.description": "+10% Primary\\n\n+5% Secondary",
+    "edencraft.race.magaar.description": "+10% Primary\\n\n+5% Secondary",
+    "edencraft.race.petra.description": "+10% Primary\\n\n+5% Secondary",
+    "edencraft.race.shael.description": "+10% Primary\\n\n+5% Secondary",
+    "edencraft.race.tamalath.description": "+10% Primary\\n\n+5% Secondary",
+    "edencraft.race.zahalari.description": "+10% Primary\\n\n+5% Secondary",
+    "edencraft.race.select": "Join the adventure!"
 }

@@ -55,5 +55,20 @@
     "damagetype.fire": "Fuoco",
     "damagetype.poison": "Veleno",
     "damagetype.pierce": "Perforazione",
-    "damagetype.physic": "Fisico"
+    "damagetype.physic": "Fisico",
+    "race.select": "Unisciti all'avventura!",
+    "race.zahalari.description": "+10% Primario\n+5% Secondario",
+    "race.tamalath.description": "+10% Primario\n+5% Secondario",
+    "race.shael.description": "+10% Primario\n+5% Secondario",
+    "race.petra.description": "+10% Primario\n+5% Secondario",
+    "race.magaar.description": "+10% Primario\n+5% Secondario",
+    "race.eloriam.description": "+10% Primario\n+5% Secondario",
+    "race.zahalari": "Zahalari",
+    "race.tamalath": "Tamalath",
+    "race.shael": "Shael",
+    "race.petra": "Petra",
+    "race.magaar": "Magaar",
+    "race.eloriam": "Eloriam",
+    "race.title": "Seleziona la tua razza",
+    "damagetype.magic": "Magia"
 }

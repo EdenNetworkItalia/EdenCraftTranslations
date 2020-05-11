@@ -30,7 +30,7 @@
     "effect.amplified.attacker": "Applica %s di livello %s per %s secondi all'attaccante",
     "effect.target": "Applica %s per %s secondi al bersaglio",
     "effect.attacker": "Applica %s per %s secondi all'attaccante",
-    "effect.damagetype": " per danni di tipo: ",
+    "effect.damagetype": "per danni di tipo",
     "edencraft.damagetype.physic": "Fisico",
     "edencraft.damagetype.pierce": "Perforazione",
     "edencraft.damagetype.poison": "Veleno",
@@ -70,5 +70,7 @@
     "race.magaar": "Magaar",
     "race.eloriam": "Eloriam",
     "race.title": "Seleziona la tua razza",
-    "damagetype.magic": "Magia"
+    "damagetype.magic": "Magia",
+    "item.modifiers.upgrade": "Aggiornamento",
+    "container.races": "Menu razze"
 }

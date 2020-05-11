@@ -20,7 +20,7 @@
     "attribute.modifier.equals.1": "%2$s: %1$s%%",
     "attribute.modifier.equals.2": "%2$s: %1$s%%",
     "item.modifiers": "Effetti",
-    "item.edencraft.custom_armor_chestplate": "Armatura test",
+    "item.edencraft.custom_armor_chestplate": "Armatura di test",
     "armorset.equippedpieces": "[%s] pezzi equipaggiati",
     "armorset.modifiers.plus": "+%s %s",
     "armorset.modifiers.take": "-%s %s",

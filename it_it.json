@@ -1,49 +1,94 @@
 {
-  "attribute.name.generic.attackDamage": "Danno Fisico",
-  "attribute.name.generic.armor": "Resistenza Fisica",
-  "attribute.name.edencraft.pierceDamage": "Danno da Perforazione",
-  "attribute.name.edencraft.poisonDamage": "Danno da Veleno",
-  "attribute.name.edencraft.fireDamage": "Danno da Fuoco",
-  "attribute.name.edencraft.coldDamage": "Danno da Freddo",
-  "attribute.name.edencraft.magicDamage": "Danno Magico",
-  "attribute.name.edencraft.poisonResistance": "Resistenza al Veleno",
-  "attribute.name.edencraft.fireResistance": "Resistenza al Fuoco",
-  "attribute.name.edencraft.coldResistance": "Resistenza al Freddo",
-  "attribute.name.edencraft.magicResistance": "Resistenza Magica",
-  "attribute.modifier.plus.0": "+%s %s",
-  "attribute.modifier.plus.1": "+%s%% %s",
-  "attribute.modifier.plus.2": "+%s%% %s",
-  "attribute.modifier.take.0": "-%s %s",
-  "attribute.modifier.take.1": "-%s%% %s",
-  "attribute.modifier.take.2": "-%s%% %s",
-  "attribute.modifier.equals.0": "%2$s: %1$s",
-  "attribute.modifier.equals.1": "%2$s: %1$s%%",
-  "attribute.modifier.equals.2": "%2$s: %1$s%%",
-  "item.modifiers.upgrade": "Potenziamento",
-  "armorset.equippedpieces": "[%s] pezzi equipaggiati",
-  "armorset.modifiers.plus": "+%s %s",
-  "armorset.modifiers.take": "-%s %s",
-  "effect.self": "Applica %s a sé",
-  "effect.amplified.self": "Applica %s di livello %s a sé",
-  "effect.target": "Applica %s per %s secondi al bersaglio",
-  "effect.amplified.target": "Applica %s di livello %s per %s secondi al bersaglio",
-  "effect.attacker": "Applica %s per %s secondi all'attaccante",
-  "effect.amplified.attacker": "Applica %s di livello %s per %s secondi all'attaccante",
-  "effect.damagetype": " per danni di tipo: ",
-  "edencraft.damagetype.physic": "Fisico",
-  "edencraft.damagetype.pierce": "Perforazione",
-  "edencraft.damagetype.poison": "Veleno",
-  "edencraft.damagetype.fire": "Fuoco",
-  "edencraft.damagetype.cold": "Freddo",
-  "edencraft.damagetype.magic": "Magico",
-  "item.modifiers": "Effetti",
-  "item.edencraft.custom_armor_chestplate": "Armatura di test",
-  "edencraft.race.title": "Seleziona una razza",
-  "edencraft.race.eloriam": "Eloriam",
-  "edencraft.race.magaar": "Magaar",
-  "edencraft.race.petra": "Petra",
-  "edencraft.race.shael": "Shael",
-  "edencraft.race.tamalath": "Tamalath",
-  "edencraft.race.zahalari": "Zahalari",
-  "edencraft.race.select": "Inizia l'avventura!"
+    "attribute": {
+        "name": {
+            "generic": {
+                "attackDamage": "Danno Fisico",
+                "armor": "Resistenza Fisica"
+            },
+            "edencraft": {
+                "pierceDamage": "Danno da Perforazione",
+                "poisonDamage": "Danno da Veleno",
+                "fireDamage": "Danno da Fuoco",
+                "coldDamage": "Danno da Freddo",
+                "magicDamage": "Danno Magico",
+                "poisonResistance": "Resistenza al Veleno",
+                "fireResistance": "Resistenza al Fuoco",
+                "coldResistance": "Resistenza al Freddo",
+                "magicResistance": "Resistenza Magica"
+            }
+        },
+        "modifier": {
+            "plus": {
+                "0": "+%s %s",
+                "1": "+%s%% %s",
+                "2": "+%s%% %s"
+            },
+            "take": {
+                "0": "-%s %s",
+                "1": "-%s%% %s",
+                "2": "-%s%% %s"
+            },
+            "equals": {
+                "0": "%2$s: %1$s",
+                "1": "%2$s: %1$s%%",
+                "2": "%2$s: %1$s%%"
+            }
+        }
+    },
+    "item": {
+        "modifiers": "Effetti",
+        "edencraft": {
+            "custom_armor_chestplate": "Armatura di test"
+        }
+    },
+    "armorset": {
+        "equippedpieces": "[%s] pezzi equipaggiati",
+        "modifiers": {
+            "plus": "+%s %s",
+            "take": "-%s %s"
+        }
+    },
+    "effect": {
+        "self": "Applica %s a sé",
+        "amplified": {
+            "self": "Applica %s di livello %s a sé",
+            "target": "Applica %s di livello %s per %s secondi al bersaglio",
+            "attacker": "Applica %s di livello %s per %s secondi all'attaccante"
+        },
+        "target": "Applica %s per %s secondi al bersaglio",
+        "attacker": "Applica %s per %s secondi all'attaccante",
+        "damagetype": " per danni di tipo: "
+    },
+    "edencraft": {
+        "damagetype": {
+            "physic": "Fisico",
+            "pierce": "Perforazione",
+            "poison": "Veleno",
+            "fire": "Fuoco",
+            "cold": "Freddo",
+            "magic": "Magico"
+        },
+        "race": {
+            "title": "Seleziona una razza",
+            "eloriam": {
+                "description": "+10% Primaria\\n\n+5% Secondaria"
+            },
+            "magaar": {
+                "description": "+10% Primaria\\n\n+5% Secondaria"
+            },
+            "petra": {
+                "description": "+10% Primaria\\n\n+5% Secondaria"
+            },
+            "shael": {
+                "description": "+10% Primaria\\n\n+5% Secondaria"
+            },
+            "tamalath": {
+                "description": "+10% Primaria\\n\n+5% Secondaria"
+            },
+            "zahalari": {
+                "description": "+10% Primaria\\n\n+5% Secondaria"
+            },
+            "select": "Inizia l'avventura!"
+        }
+    }
 }

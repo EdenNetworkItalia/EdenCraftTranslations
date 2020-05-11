@@ -50,5 +50,10 @@
     "edencraft.race.zahalari": "Zahalari",
     "edencraft.race.tamalath": "Tamalath",
     "edencraft.race.shael": "Shael",
-    "edencraft.race.petra": "Petra"
+    "edencraft.race.petra": "Petra",
+    "damagetype.cold": "Freddo",
+    "damagetype.fire": "Fuoco",
+    "damagetype.poison": "Veleno",
+    "damagetype.pierce": "Perforazione",
+    "damagetype.physic": "Fisico"
 }

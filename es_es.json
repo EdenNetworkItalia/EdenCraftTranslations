@@ -24,7 +24,7 @@
     "effect.attacker": "Aplica% s durante% s segundos al atacante",
     "effect.damagetype": "en daño de tipo",
     "container.races": "Menu razas",
-    "race.zahalari.description": "+10% Primario\n+5% Secondario",
+    "race.zahalari.description": "+10% Velocidad de uso de la pala\n+5% Duración de las pociones",
     "race.select": "¡Únete a la aventura!",
     "item.modifiers.upgrade": "Actualización",
     "damagetype.physical": "Físico",
@@ -40,9 +40,9 @@
     "race.shael": "Shael",
     "race.tamalath": "Tamalath",
     "race.zahalari": "Zahalari",
-    "race.eloriam.description": "+10% Primario\n+5% Secondario",
-    "race.magaar.description": "+10% Primario\n+5% Secondario",
-    "race.petra.description": "+10% Primario\n+5% Secondario",
-    "race.shael.description": "+10% Primario\n+5% Secondario",
-    "race.tamalath.description": "+10% Primario\n+5% Secondario"
+    "race.eloriam.description": "+10% Daño por caída\n+5% Resistencia mágica",
+    "race.magaar.description": "+10% Velocidad de uso del hacha\n+5% Daño físico",
+    "race.petra.description": "+10% Velocidad de uso de pico\n+5% Resistencia física y de perforación",
+    "race.shael.description": "+10% Daño por caída\n+5% Resistencia al veneno",
+    "race.tamalath.description": "+10% Resistencia al frío\n+5% Resistencia al frío"
 }

@@ -42,7 +42,7 @@
     "race.magaar.description": "+10% axe usage speed\n+5% physical damage",
     "race.petra.description": "+10% pickaxe usage speed\n+5% physical and pierce resistance",
     "race.shael.description": "-10% fall damage\n+5% poison resistance",
-    "race.tamalath.description": "+10% cold resistance\n+5% cold resistance",
+    "race.tamalath.description": "+10% fire resistance\n+5% cold resistance",
     "race.zahalari.description": "+10% shovel usage speed\n+5% potions duration",
     "race.select": "Join the adventure!"
 }

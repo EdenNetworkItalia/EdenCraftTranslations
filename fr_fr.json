@@ -33,7 +33,7 @@
     "race.magaar.description": "+10% Primaire\n+5% Secondaire",
     "race.petra.description": "+10% Vitesse d'utilisation de la pioche\n+5% Résistance physique et à la perforation",
     "race.shael.description": "+10% Dommage de chute\n+5% Dommage du poison",
-    "race.tamalath.description": "+10% Résistance au froid\n+5% Résistance au froid",
+    "race.tamalath.description": "+10% Résistance au feu\n+5% Résistance au froid",
     "item.modifiers.upgrade": "Mise à jour",
     "race.zahalari.description": "+10% Vitesse d'utilisation de la pelle\n+5% Durée des potions",
     "race.select": "Rejoignez l'aventure !",

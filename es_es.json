@@ -44,5 +44,13 @@
     "race.magaar.description": "+10% Velocidad de uso del hacha\n+5% Daño físico",
     "race.petra.description": "+10% Velocidad de uso de pico\n+5% Resistencia física y de perforación",
     "race.shael.description": "+10% Daño por caída\n+5% Resistencia al veneno",
-    "race.tamalath.description": "+10% Resistencia al fuego\n+5% Resistencia al frío"
+    "race.tamalath.description": "+10% Resistencia al fuego\n+5% Resistencia al frío",
+    "armorset.name.nocturna": "Orichalcum",
+    "armorset.name.infinium": "Infinium",
+    "armorset.name.orichalcum": "Orichalcum",
+    "armorset.name.glacium": "Glacium",
+    "armorset.name.inxilium": "Inxilium",
+    "armorset.name.eternium": "Eternium",
+    "armorset.name.adamantite": "Adamantite",
+    "armorset.name.lumio": "Lumio"
 }

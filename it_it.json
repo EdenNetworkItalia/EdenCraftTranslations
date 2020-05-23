@@ -120,5 +120,22 @@
     "item.edencraft.eternium_helmet": "Elmo di Eternio",
     "item.edencraft.eternium_chestplate": "Armatura di Eternio",
     "item.edencraft.eternium_leggings": "Gambiere di Eternio",
-    "item.edencraft.eternium_boots": "Stivali di Eternio"
+    "item.edencraft.eternium_boots": "Stivali di Eternio",
+    "attribute.name.edencraft.attackKnockback": "Contraccolpo",
+    "attribute.name.edencraft.pierceDodge": "Resistenza magica",
+    "effect.queasiness": "Nausea",
+    "attribute.name.edencraft.healthSteal": "Ruba Vita",
+    "armorset.equipped_pieces": "[%s] pezzi equipaggiati",
+    "entity.upgrader.name": "Incantatore",
+    "entity.guild_upgrader.name": "Incantatore di Gilda",
+    "entity.repairer.name": "Fabbro",
+    "entity.guild_repairer.name": "Fabbro di Gilda",
+    "container.upgrader.offers": "Offerte",
+    "container.upgrader.title": "Incantatore",
+    "container.repairer.title": "Fabbro",
+    "effect.freezing": "Congelamento",
+    "effect.curse": "Maledizione",
+    "effect.rust": "Ruggine",
+    "effect.stagger": "Barcollamento",
+    "effect.power": "Forza"
 }

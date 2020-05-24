@@ -44,5 +44,14 @@
     "damagetype.poison": "Gift",
     "damagetype.pierce": "Durchbohren",
     "damagetype.physical": "Physisch",
-    "item.modifiers.upgrade": "Aktualisieren"
+    "item.modifiers.upgrade": "Aktualisieren",
+    "armorset.name.eternium": "Eternium",
+    "armorset.name.inxilium": "Inxilium",
+    "armorset.name.glacium": "Glacium",
+    "armorset.name.lumio": "Lumio",
+    "armorset.name.runite": "Runite",
+    "armorset.name.adamantite": "Adamantite",
+    "armorset.name.orichalcum": "Orichalcum",
+    "armorset.name.nocturna": "Nocturna",
+    "armorset.name.infinium": "Infinium"
 }

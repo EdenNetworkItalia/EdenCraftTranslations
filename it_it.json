@@ -1,4 +1,11 @@
 {
+	"itemGroup.edenBlocks": "Blocchi",
+	"itemGroup.edenMaterials": "Materiali",
+	"itemGroup.edenTools": "Attrezzi",
+	"itemGroup.edenWeapons": "Armi",
+	"itemGroup.edenArmors": "Armature",
+	"itemGroup.edenFoods": "Cibi",
+	"itemGroup.edenVarious": "Varie",
     "attribute.name.generic.attackDamage": "Danno Fisico",
     "attribute.name.generic.armor": "Resistenza Fisica",
     "attribute.name.edencraft.pierceDamage": "Danno da Perforazione",

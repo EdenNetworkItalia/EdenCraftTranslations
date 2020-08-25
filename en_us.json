@@ -1,4 +1,11 @@
 {
+	"itemGroup.edenBlocks": "Blocks",
+	"itemGroup.edenMaterials": "Materials",
+	"itemGroup.edenTools": "Tools",
+	"itemGroup.edenWeapons": "Weapons",
+	"itemGroup.edenArmors": "Armors",
+	"itemGroup.edenFoods": "Foods",
+	"itemGroup.edenVarious": "Various",
 	"attribute.name.generic.attackDamage": "Physical Damage",
 	"attribute.name.generic.armor": "Physical Resistance",
 	"attribute.name.edencraft.attackKnockback": "Knockback",

@@ -197,6 +197,8 @@
 	"item.edencraft.eternium_axe.name": "Eternium Axe",
 	"item.edencraft.eternium_shovel.name": "Eternium Shovel",
 	"item.edencraft.eternium_hoe.name": "Eternium Hoe",
+	"item.edencraft.wood_sword.name": "Wood Sword",
+	"item.edencraft.stone_sword.name": "Stone Sword",
 	"item.edencraft.azurite_sword.name": "Azurite Sword",
 	"item.edencraft.azurite_sword_upgrade_freezing.name": "Azurite Sword - Freezing",
 	"item.edencraft.azurite_sword_upgrade_poisonous.name": "Azurite Sword - Poisonous",
@@ -798,5 +800,12 @@
 	"tile.edencraft.slim_lantern_blue.name": "Blue Slim Lantern",
 	"tile.edencraft.slim_lantern_brown.name": "Brown Slim Lantern",
 	"tile.edencraft.slim_lantern_green.name": "Green Slim Lantern",
-	"tile.edencraft.slim_lantern_red.name": "Red Slim Lantern"
+	"tile.edencraft.slim_lantern_red.name": "Red Slim Lantern",
+	"item.forge.bucketFilled.name": "%s Bucket",
+	"fluid.blood": "Blood",
+	"fluid.holy_water": "Holy Water",
+	"fluid.sewer_water": "Sewer Water",
+	"fluid.acid": "Acid",
+	"fluid.liquid_rainbow": "Liquid Rainbow",
+	"fluid.fruit_juice": "Juice"
 }

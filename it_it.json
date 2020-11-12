@@ -197,6 +197,8 @@
 	"item.edencraft.eternium_axe.name": "Ascia di Eternium",
 	"item.edencraft.eternium_shovel.name": "Pala di Eternium",
 	"item.edencraft.eternium_hoe.name": "Falce di Eternium",
+	"item.edencraft.wood_sword.name": "Spada di Legno",
+	"item.edencraft.stone_sword.name": "Spada di Pietra",
 	"item.edencraft.azurite_sword.name": "Spada di Azurite",
 	"item.edencraft.azurite_sword_upgrade_freezing.name": "Spada di Azurite - Congelante",
 	"item.edencraft.azurite_sword_upgrade_poisonous.name": "Spada di Azurite - Velenosa",
@@ -798,5 +800,12 @@
 	"tile.edencraft.slim_lantern_blue.name": "Lanterna piccola blu",
 	"tile.edencraft.slim_lantern_brown.name": "Lanterna piccola marrone",
 	"tile.edencraft.slim_lantern_green.name": "Lanterna piccola verde",
-	"tile.edencraft.slim_lantern_red.name": "Lanterna piccola rossa"
+	"tile.edencraft.slim_lantern_red.name": "Lanterna piccola rossa",
+	"item.forge.bucketFilled.name": "Secchio di %s",
+	"fluid.blood": "sangue",
+	"fluid.holy_water": "acqua santa",
+	"fluid.sewer_water": "acqua di fogna",
+	"fluid.acid": "acido",
+	"fluid.liquid_rainbow": "arcobaleno liquido",
+	"fluid.fruit_juice": "succo di frutta"
 }

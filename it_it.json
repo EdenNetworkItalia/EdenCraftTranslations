@@ -807,5 +807,6 @@
 	"fluid.sewer_water": "acqua di fogna",
 	"fluid.acid": "acido",
 	"fluid.liquid_rainbow": "arcobaleno liquido",
-	"fluid.fruit_juice": "succo di frutta"
+	"fluid.fruit_juice": "succo di frutta",
+	"command.race.usage": "/race <reset> <giocatore>"
 }

@@ -807,5 +807,6 @@
 	"fluid.sewer_water": "Sewer Water",
 	"fluid.acid": "Acid",
 	"fluid.liquid_rainbow": "Liquid Rainbow",
-	"fluid.fruit_juice": "Juice"
+	"fluid.fruit_juice": "Juice",
+	"command.race.usage": "/race <reset> <player>"
 }
